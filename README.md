@@ -1,3 +1,3 @@
 # aula-repositorio-AugustoThiago
-Praticando github
+Praticando github <br>
 Este repositório foi criado na aula de desenvolvimento ágil
